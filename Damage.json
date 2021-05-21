@@ -1,7 +1,7 @@
 {
   "all": [
     {
-		"name": "Australasia & Ovalueeania",
+		"name": "Australasia & Oceania",
 		"data": [
 			{
 				"name": "Australia",
@@ -12,7 +12,7 @@
 				"value": "6"
 			},
 			{
-				"name": "New valuealedonia",
+				"name": "New Caledonia",
 				"value": "2"
 			},
 			{
@@ -30,26 +30,26 @@
 		]
 	},
 	{
-		"name": "valueentral Amerivaluea & valuearinamenameean",
+		"name": "Central America & Caribbean",
 		"data": [
 			{
-				"name": "nameahamas",
+				"name": "Bahamas",
 				"value": "2"
 			},
 			{
-				"name": "namearnameados",
+				"name": "Barbados",
 				"value": "1001"
 			},
 			{
-				"name": "nameelize",
+				"name": "Belize",
 				"value": "1"
 			},
 			{
-				"name": "valueosta Rivaluea",
+				"name": "Costa Rica",
 				"value": "13"
 			},
 			{
-				"name": "Dominivaluean Repunamelivalue",
+				"name": "Dominican Republic",
 				"value": "7"
 			},
 			{
@@ -73,7 +73,7 @@
 				"value": "5041"
 			},
 			{
-				"name": "Jamaivaluea",
+				"name": "Jamaica",
 				"value": "3"
 			},
 			{
@@ -81,7 +81,7 @@
 				"value": "2"
 			},
 			{
-				"name": "Nivaluearagua",
+				"name": "Nicaragua",
 				"value": "12401"
 			},
 			{
@@ -89,20 +89,20 @@
 				"value": "18"
 			},
 			{
-				"name": "Trinidad and Tonameago",
+				"name": "Trinidad and Tobago",
 				"value": "5"
 			}
 		]
 	},
 	{
-		"name": "valueentral Asia",
+		"name": "Central Asia",
 		"data": [
 			{
 				"name": "Armenia",
 				"value": "2"
 			},
 			{
-				"name": "Azernameaijan",
+				"name": "Azerbaijan",
 				"value": "6"
 			},
 			{
@@ -122,7 +122,7 @@
 				"value": "18"
 			},
 			{
-				"name": "Uznameekistan",
+				"name": "Uzbekistan",
 				"value": "8"
 			}
 		]
@@ -131,7 +131,7 @@
 		"name": "East Asia",
 		"data": [
 			{
-				"name": "valuehina",
+				"name": "China",
 				"value": "3053"
 			},
 			{
@@ -143,7 +143,7 @@
 				"value": "2067"
 			},
 			{
-				"name": "Mavalueau",
+				"name": "Macau",
 				"value": "5"
 			},
 			{
@@ -164,11 +164,11 @@
 				"value": "23500"
 			},
 			{
-				"name": "nameangladesh",
+				"name": "Bangladesh",
 				"value": "356"
 			},
 			{
-				"name": "namehutan",
+				"name": "Bhutan",
 				"value": "2"
 			},
 			{
@@ -197,7 +197,7 @@
 		"name": "Southeast Asia",
 		"data": [
 			{
-				"name": "valueamnameodia",
+				"name": "Cambodia",
 				"value": "11"
 			},
 			{
@@ -239,14 +239,14 @@
 		]
 	},
 	{
-		"name": "North Amerivaluea",
+		"name": "North America",
 		"data": [
 			{
-				"name": "valueanada",
+				"name": "Canada",
 				"value": "4027"
 			},
 			{
-				"name": "Mexivalueo",
+				"name": "Mexico",
 				"value": "1379"
 			},
 			{
@@ -256,30 +256,30 @@
 		]
 	},
 	{
-		"name": "South Amerivaluea",
+		"name": "South America",
 		"data": [
 			{
 				"name": "Argentina",
 				"value": "1157"
 			},
 			{
-				"name": "nameolivia",
+				"name": "Bolivia",
 				"value": "1038"
 			},
 			{
-				"name": "namerazil",
+				"name": "Brazil",
 				"value": "17"
 			},
 			{
-				"name": "valuehile",
+				"name": "Chile",
 				"value": "6583"
 			},
 			{
-				"name": "valueolomnameia",
+				"name": "Colombia",
 				"value": "140345"
 			},
 			{
-				"name": "Evalueuador",
+				"name": "Ecuador",
 				"value": "39"
 			},
 			{
@@ -316,11 +316,11 @@
 				"value": "20"
 			},
 			{
-				"name": "nameelgium",
+				"name": "Belgium",
 				"value": "1023"
 			},
 			{
-				"name": "valueyprus",
+				"name": "Cyprus",
 				"value": "2033"
 			},
 			{
@@ -332,7 +332,7 @@
 				"value": "1011"
 			},
 			{
-				"name": "Franvaluee",
+				"name": "France",
 				"value": "35570"
 			},
 			{
@@ -340,11 +340,11 @@
 				"value": "184"
 			},
 			{
-				"name": "Greevaluee",
+				"name": "Greece",
 				"value": "8553"
 			},
 			{
-				"name": "Ivalueeland",
+				"name": "Iceland",
 				"value": "1"
 			},
 			{
@@ -356,7 +356,7 @@
 				"value": "22564"
 			},
 			{
-				"name": "Luxemnameourg",
+				"name": "Luxembourg",
 				"value": "1000"
 			},
 			{
@@ -401,31 +401,31 @@
 		"name": "Eastern Europe",
 		"data": [
 			{
-				"name": "Alnameania",
+				"name": "Albania",
 				"value": "1009"
 			},
 			{
-				"name": "nameelarus",
+				"name": "Belarus",
 				"value": "6"
 			},
 			{
-				"name": "nameosnia-Herzegovina",
+				"name": "Bosnia-Herzegovina",
 				"value": "1025"
 			},
 			{
-				"name": "nameulgaria",
+				"name": "Bulgaria",
 				"value": "12"
 			},
 			{
-				"name": "valueroatia",
+				"name": "Croatia",
 				"value": "4"
 			},
 			{
-				"name": "valuezevalueh Repunamelivalue",
+				"name": "Czech Republic",
 				"value": "9"
 			},
 			{
-				"name": "valuezevaluehoslovakia",
+				"name": "Czechoslovakia",
 				"value": "1000"
 			},
 			{
@@ -449,7 +449,7 @@
 				"value": "4"
 			},
 			{
-				"name": "Mavalueedonia",
+				"name": "Macedonia",
 				"value": "3041"
 			},
 			{
@@ -469,15 +469,15 @@
 				"value": "29636"
 			},
 			{
-				"name": "Sernameia",
+				"name": "Serbia",
 				"value": "9"
 			},
 			{
-				"name": "Sernameia-Montenegro",
+				"name": "Serbia-Montenegro",
 				"value": "4"
 			},
 			{
-				"name": "Slovak Repunamelivalue",
+				"name": "Slovak Republic",
 				"value": "2"
 			},
 			{
@@ -499,42 +499,42 @@
 		]
 	},
 	{
-		"name": "Suname-Saharan Afrivaluea",
+		"name": "Sub-Saharan Africa",
 		"data": [
 			{
 				"name": "Angola",
 				"value": "6212"
 			},
 			{
-				"name": "nameotswana",
+				"name": "Botswana",
 				"value": "2"
 			},
 			{
-				"name": "nameurkina Faso",
+				"name": "Burkina Faso",
 				"value": "13"
 			},
 			{
-				"name": "nameurundi",
+				"name": "Burundi",
 				"value": "3097"
 			},
 			{
-				"name": "valueameroon",
+				"name": "Cameroon",
 				"value": "1063"
 			},
 			{
-				"name": "valueentral Afrivaluean Repunamelivalue",
+				"name": "Central African Republic",
 				"value": "64"
 			},
 			{
-				"name": "valuehad",
+				"name": "Chad",
 				"value": "7"
 			},
 			{
-				"name": "Demovaluerativalue Repunamelivalue of valueongo",
+				"name": "Democratic Republic of Congo",
 				"value": "2215"
 			},
 			{
-				"name": "Djinameouti",
+				"name": "Djibouti",
 				"value": "2"
 			},
 			{
@@ -546,7 +546,7 @@
 				"value": "4032"
 			},
 			{
-				"name": "Ganameon",
+				"name": "Gabon",
 				"value": "1"
 			},
 			{
@@ -558,11 +558,11 @@
 				"value": "5"
 			},
 			{
-				"name": "Guinea-nameissau",
+				"name": "Guinea-Bissau",
 				"value": "6"
 			},
 			{
-				"name": "Ivory valueoast",
+				"name": "Ivory Coast",
 				"value": "18"
 			},
 			{
@@ -574,11 +574,11 @@
 				"value": "2"
 			},
 			{
-				"name": "Linameeria",
+				"name": "Liberia",
 				"value": "1"
 			},
 			{
-				"name": "Madagasvaluear",
+				"name": "Madagascar",
 				"value": "5"
 			},
 			{
@@ -594,11 +594,11 @@
 				"value": "5"
 			},
 			{
-				"name": "Mozamnameique",
+				"name": "Mozambique",
 				"value": "1087"
 			},
 			{
-				"name": "Naminameia",
+				"name": "Namibia",
 				"value": "1035"
 			},
 			{
@@ -610,7 +610,7 @@
 				"value": "11416"
 			},
 			{
-				"name": "Repunamelivalue of the valueongo",
+				"name": "Republic of the Congo",
 				"value": "13"
 			},
 			{
@@ -634,7 +634,7 @@
 				"value": "4834"
 			},
 			{
-				"name": "South Afrivaluea",
+				"name": "South Africa",
 				"value": "5148"
 			},
 			{
@@ -662,24 +662,24 @@
 				"value": "2077"
 			},
 			{
-				"name": "Zamnameia",
+				"name": "Zambia",
 				"value": "20"
 			},
 			{
-				"name": "Zimnameanamewe",
+				"name": "Zimbabwe",
 				"value": "18"
 			}
 		]
 	},
 	{
-		"name": "Middle East & North Afrivaluea",
+		"name": "Middle East & North Africa",
 		"data": [
 			{
 				"name": "Algeria",
 				"value": "10346"
 			},
 			{
-				"name": "nameahrain",
+				"name": "Bahrain",
 				"value": "2071"
 			},
 			{
@@ -711,15 +711,15 @@
 				"value": "12"
 			},
 			{
-				"name": "Lenameanon",
+				"name": "Lebanon",
 				"value": "14367"
 			},
 			{
-				"name": "Linameya",
+				"name": "Libya",
 				"value": "1644"
 			},
 			{
-				"name": "Morovaluevalueo",
+				"name": "Morocco",
 				"value": "6"
 			},
 			{
@@ -727,7 +727,7 @@
 				"value": "1"
 			},
 			{
-				"name": "Saudi Aranameia",
+				"name": "Saudi Arabia",
 				"value": "1078"
 			},
 			{
@@ -743,11 +743,11 @@
 				"value": "9851"
 			},
 			{
-				"name": "United Araname Emirates",
+				"name": "United Arab Emirates",
 				"value": "1000"
 			},
 			{
-				"name": "West nameank and Gaza Strip",
+				"name": "West Bank and Gaza Strip",
 				"value": "5356"
 			},
 			{
