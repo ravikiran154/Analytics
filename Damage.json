@@ -5,27 +5,27 @@
       "data": [
         {
           "name": "Australia",
-          "value": "34"
+          "value": 34
         },
         {
           "name": "Fiji",
-          "value": "6"
+          "value": 6
         },
         {
           "name": "New Caledonia",
-          "value": "2"
+          "value": 2
         },
         {
           "name": "New Zealand",
-          "value": "3"
+          "value": 3
         },
         {
           "name": "Papua New Guinea",
-          "value": "14"
+          "value": 14
         },
         {
           "name": "Solomon Islands",
-          "value": "1"
+          "value": 1
         }
       ]
     }
