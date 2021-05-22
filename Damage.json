@@ -95,69 +95,7 @@
 	  ]
 	},
 	{
-      "name": "Central Asia",
-	  "data": [
-		{
-		  "name": "Armenia",
-	      "value": 2
-		},
-		{
-		  "name": "Azerbaijan",
-	      "value": 6
-		},
-		{
-		  "name": "Georgia",
-	      "value": 1051
-		},
-		{
-		  "name": "Kazakhstan",
-	      "value": 5
-		},
-		{
-		  "name": "Kyrgyzstan",
-	      "value": 9
-		},
-		{
-		  "name": "Tajikistan",
-	      "value": 18
-		},
-		{
-		  "name": "Uzbekistan",
-	      "value": 8
-		}
-	  ]
-	},
-	{
-      "name": "East Asia",
-	  "data": [
-		{
-		  "name": "China",
-	      "value": 3053
-		},
-		{
-		  "name": "Hong Kong",
-	      "value": 2
-		},
-		{
-		  "name": "Japan",
-	      "value": 2067
-		},
-		{
-		  "name": "Macau",
-	      "value": 5
-		},
-		{
-		  "name": "South Korea",
-	      "value": 2
-		},
-		{
-		  "name": "Taiwan ",
-	      "value": 1016
-		}
-	  ]
-	},
-	{
-      "name": "South Asia",
+      "name": "Asia",
 	  "data": [
 		{
 		  "name": "Afghanistan",
@@ -190,12 +128,31 @@
 		{
 		  "name": "Sri Lanka",
 	      "value": 14316
-		}
-	  ]
-	},
-	{
-      "name": "Southeast Asia",
-	  "data": [
+		},
+		{
+		  "name": "China",
+	      "value": 3053
+		},
+		{
+		  "name": "Hong Kong",
+	      "value": 2
+		},
+		{
+		  "name": "Japan",
+	      "value": 2067
+		},
+		{
+		  "name": "Macau",
+	      "value": 5
+		},
+		{
+		  "name": "South Korea",
+	      "value": 2
+		},
+		{
+		  "name": "Taiwan ",
+	      "value": 1016
+		},
 		{
 		  "name": "Cambodia",
 	      "value": 11
@@ -235,6 +192,34 @@
 		{
 		  "name": "Vietnam",
 	      "value": 1
+		},
+		{
+		  "name": "Armenia",
+	      "value": 2
+		},
+		{
+		  "name": "Azerbaijan",
+	      "value": 6
+		},
+		{
+		  "name": "Georgia",
+	      "value": 1051
+		},
+		{
+		  "name": "Kazakhstan",
+	      "value": 5
+		},
+		{
+		  "name": "Kyrgyzstan",
+	      "value": 9
+		},
+		{
+		  "name": "Tajikistan",
+	      "value": 18
+		},
+		{
+		  "name": "Uzbekistan",
+	      "value": 8
 		}
 	  ]
 	},
@@ -309,7 +294,7 @@
 	  ]
 	},
 	{
-      "name": "Western Europe",
+      "name": "Europe",
 	  "data": [
 		{
 		  "name": "Austria",
@@ -394,12 +379,7 @@
 		{
 		  "name": "West Germany (FRG)",
 	      "value": 7141
-		}
-	  ]
-	},
-	{
-      "name": "Eastern Europe",
-	  "data": [
+		},
 		{
 		  "name": "Albania",
 	      "value": 1009
@@ -499,8 +479,88 @@
 	  ]
 	},
 	{
-      "name": "Sub-Saharan Africa",
+      "name": "Africa",
 	  "data": [
+		{
+		  "name": "Algeria",
+	      "value": 10346
+		},
+		{
+		  "name": "Bahrain",
+	      "value": 2071
+		},
+		{
+		  "name": "Egypt",
+	      "value": 4455
+		},
+		{
+		  "name": "International",
+	      "value": 1
+		},
+		{
+		  "name": "Iran",
+	      "value": 6123
+		},
+		{
+		  "name": "Iraq",
+	      "value": 110665
+	    },
+		{
+		  "name": "Israel",
+	      "value": 6465
+		},
+		{
+		  "name": "Jordan",
+	      "value": 18
+		},
+		{
+		  "name": "Kuwait",
+	      "value": 12
+		},
+		{
+		  "name": "Lebanon",
+	      "value": 14367
+		},
+		{
+		  "name": "Libya",
+	      "value": 1644
+		},
+		{
+		  "name": "Morocco",
+	      "value": 6
+		},
+		{
+		  "name": "North Yemen",
+	      "value": 1
+		},
+		{
+		  "name": "Saudi Arabia",
+	      "value": 1078
+     	},
+		{
+		  "name": "Syria",
+	      "value": 567
+		},
+		{
+		  "name": "Tunisia",
+	      "value": 1019
+		},
+		{
+		  "name": "Turkey",
+	      "value": 9851
+		},
+		{
+		  "name": "United Arab Emirates",
+	      "value": 1000
+		},
+		{
+		  "name": "West Bank and Gaza Strip",
+	      "value": 5356
+		},
+		{
+		  "name": "Yemen",
+	      "value": 2719
+		},
 		{
 		  "name": "Angola",
 	      "value": 6212
@@ -668,91 +728,6 @@
 		{
 		  "name": "Zimbabwe",
 	      "value": 18
-		}
-	  ]
-	},
-	{
-      "name": "Middle East & North Africa",
-	  "data": [
-		{
-		  "name": "Algeria",
-	      "value": 10346
-		},
-		{
-		  "name": "Bahrain",
-	      "value": 2071
-		},
-		{
-		  "name": "Egypt",
-	      "value": 4455
-		},
-		{
-		  "name": "International",
-	      "value": 1
-		},
-		{
-		  "name": "Iran",
-	      "value": 6123
-		},
-		{
-		  "name": "Iraq",
-	      "value": 110665
-	    },
-		{
-		  "name": "Israel",
-	      "value": 6465
-		},
-		{
-		  "name": "Jordan",
-	      "value": 18
-		},
-		{
-		  "name": "Kuwait",
-	      "value": 12
-		},
-		{
-		  "name": "Lebanon",
-	      "value": 14367
-		},
-		{
-		  "name": "Libya",
-	      "value": 1644
-		},
-		{
-		  "name": "Morocco",
-	      "value": 6
-		},
-		{
-		  "name": "North Yemen",
-	      "value": 1
-		},
-		{
-		  "name": "Saudi Arabia",
-	      "value": 1078
-     	},
-		{
-		  "name": "Syria",
-	      "value": 567
-		},
-		{
-		  "name": "Tunisia",
-	      "value": 1019
-		},
-		{
-		  "name": "Turkey",
-	      "value": 9851
-		},
-		{
-		  "name": "United Arab Emirates",
-	      "value": 1000
-		},
-		{
-		  "name": "West Bank and Gaza Strip",
-	      "value": 5356
-		},
-		{
-		  "name": "Yemen",
-	      "value": 2719
 		}
 	  ]
 	}
