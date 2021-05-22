@@ -1,0 +1,39 @@
+{
+  "COUNTRIES": [
+    {
+      "STATES": [
+        {
+          "StateIncidentCount": 214,
+          "StateName": "Maharashtra",
+          "Code": "in-mh"
+        },
+        {
+          "StateIncidentCount": 120,
+          "StateName": "Tripura",
+          "Code": "in-jh"
+        }
+      ],
+      "CountryName": "India",
+      "CountryIncidentCount": 334,
+      "Code": "in"
+    },
+    {
+      "STATES": [
+        {
+          "StateIncidentCount": 11,
+          "StateName": "Ohio",
+          "Code": "us-oh"
+        },
+        {
+          "StateIncidentCount": 21,
+          "StateName": "Colorado",
+          "Code": "us-co"
+          ]
+        }
+      ],
+      "CountryName": "United States of America",
+      "CountryIncidentCount": 32,
+      "Code": "us"
+    }
+  ]
+}
