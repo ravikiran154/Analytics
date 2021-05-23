@@ -39,12 +39,12 @@
             {
                "StateIncidentCount": 1234,
                "StateName": "Helmand",
-               "Code": "af-hel"
+               "Code": "af-hm"
             },
             {
                "StateIncidentCount": 1122,
                "StateName": "Kandahar",
-               "Code": "af-kan"
+               "Code": "af-kd"
             }
          ],
          "CountryName": "Afghanistan",
@@ -56,12 +56,12 @@
             {
                "StateIncidentCount": 26,
                "StateName": "Tirana",
-               "Code": "al-11"
+               "Code": "al-ti"
             },
             {
                "StateIncidentCount": 9,
                "StateName": "Gjirokaster",
-               "Code": "al-05"
+               "Code": "al-gk"
             }
          ],
          "CountryName": "Albania",
