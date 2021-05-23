@@ -1,0 +1,35 @@
+{
+	"COUNTRIES": [{
+			"STATES": [{
+					"StateIncidentCount": 35,
+					"StateName": "Ontario",
+					"Code": "CA-AB"
+				},
+				{
+					"StateIncidentCount": 120,
+					"StateName": "Quebec",
+					"Code": "CA-QC"
+				}
+			],
+			"CountryName": "Canada",
+			"CountryIncidentCount": 96,
+			"Code": "CA"
+		},
+		{
+			"STATES": [{
+					"StateIncidentCount": 1234,
+					"StateName": "Helmand",
+					"Code": "AF-HEL"
+				},
+				{
+					"StateIncidentCount": 1122,
+					"StateName": "Kandahar",
+					"Code": "AF-KAN"
+				}
+			],
+			"CountryName": "United States of America",
+			"CountryIncidentCount": 12731,
+			"Code": "AF"
+		}
+	]
+}
