@@ -13,7 +13,7 @@
 			],
 			"CountryName": "Canada",
 			"CountryIncidentCount": 96,
-			"Code": "CA"
+			"Code": "ca"
 		},
 		{
 			"STATES": [{
@@ -27,9 +27,9 @@
 					"Code": "AF-KAN"
 				}
 			],
-			"CountryName": "United States of America",
+			"CountryName": "Afghanistan",
 			"CountryIncidentCount": 12731,
-			"Code": "AF"
+			"Code": "af"
 		}
 	]
 }
