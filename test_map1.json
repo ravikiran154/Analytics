@@ -50,6 +50,23 @@
          "CountryName": "Albania",
          "CountryIncidentCount": 20000,
          "Code": "al"
+      },
+      {
+         "STATES": [
+            {
+               "StateIncidentCount": 100,
+               "StateName": "Dubai",
+               "Code": "ae-du"
+            },
+            {
+               "StateIncidentCount": 200,
+               "StateName": "Fujairah",
+               "Code": "ae-fu"
+            }
+         ],
+         "CountryName": "United Arab Emirates",
+         "CountryIncidentCount": 5000,
+         "Code": "ae"
       }
    ]
 }
