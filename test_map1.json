@@ -32,7 +32,7 @@
          ],
          "CountryName": "Afghanistan",
          "CountryIncidentCount": 12731,
-         "Code": "AF"
+         "Code": "af"
       },
       {
          "STATES": [
@@ -49,7 +49,7 @@
          ],
          "CountryName": "Albania",
          "CountryIncidentCount": 80,
-         "Code": "AL"
+         "Code": "al"
       }
    ]
 }
