@@ -5,51 +5,51 @@
             {
                "StateIncidentCount": 35,
                "StateName": "Ontario",
-               "Code": "ca-on"
+               "Code": "CA-ON"
             },
             {
                "StateIncidentCount": 120,
                "StateName": "Quebec",
-               "Code": "ca-qc"
+               "Code": "CA-QC"
             }
          ],
          "CountryName": "Canada",
          "CountryIncidentCount": 96,
-         "Code": "ca"
+         "Code": "CA"
       },
       {
          "STATES": [
             {
                "StateIncidentCount": 1234,
                "StateName": "Helmand",
-               "Code": "af-hel"
+               "Code": "AF-HEL"
             },
             {
                "StateIncidentCount": 1122,
                "StateName": "Kandahar",
-               "Code": "af-kan"
+               "Code": "AF-KAN"
             }
          ],
          "CountryName": "Afghanistan",
          "CountryIncidentCount": 12731,
-         "Code": "af"
+         "Code": "AF"
       },
       {
          "STATES": [
             {
                "StateIncidentCount": 26,
                "StateName": "Tirana",
-               "Code": "al-11"
+               "Code": "AL-11"
             },
             {
                "StateIncidentCount": 9,
                "StateName": "Gjirokaster",
-               "Code": "al-05"
+               "Code": "AL-05"
             }
          ],
          "CountryName": "Albania",
          "CountryIncidentCount": 80,
-         "Code": "al"
+         "Code": "AL"
       }
    ]
 }
