@@ -20,40 +20,6 @@
       {
          "STATES": [
             {
-               "StateIncidentCount": 1234,
-               "StateName": "Helmand",
-               "Code": "af-hel"
-            },
-            {
-               "StateIncidentCount": 1122,
-               "StateName": "Kandahar",
-               "Code": "af-kan"
-            }
-         ],
-         "CountryName": "Afghanistan",
-         "CountryIncidentCount": 12731,
-         "Code": "af"
-      },
-      {
-         "STATES": [
-            {
-               "StateIncidentCount": 26,
-               "StateName": "Tirana",
-               "Code": "al-11"
-            },
-            {
-               "StateIncidentCount": 9,
-               "StateName": "Gjirokaster",
-               "Code": "al-05"
-            }
-         ],
-         "CountryName": "Albania",
-         "CountryIncidentCount": 20000,
-         "Code": "al"
-      },
-      {
-         "STATES": [
-            {
                "StateIncidentCount": 100,
                "StateName": "Dubai",
                "Code": "ae-du"
