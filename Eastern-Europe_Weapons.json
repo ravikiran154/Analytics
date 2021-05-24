@@ -1,12 +1,12 @@
 [
-['Explosives',3089],
-['Firearms',1461],
-['Unknown',293],
-['Incendiary',186],
-['Melee',90],
-['Chemical',12],
-['Fake Weapons',4],
-['Other',4],
-['Sabotage Equipment',4],
-['"Vehicle (not to include vehicle-borne explosives\', i.e.\', car or truck bombs)"',1]
+["Explosives",3089],
+["Firearms",1461],
+["Unknown",293],
+["Incendiary",186],
+["Melee",90],
+["Chemical",12],
+["Fake Weapons",4],
+["Other",4],
+["Sabotage Equipment",4],
+[""Vehicle (not to include vehicle-borne explosives\", i.e.\", car or truck bombs)"",1]
 ]
