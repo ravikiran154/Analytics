@@ -1,0 +1,1369 @@
+{
+   "COUNTRIES": [
+      {
+         "CountryName": "Afghanistan",
+         "CountryIncidentCount": 1228,
+         "Code": "af",
+         "STATES": [
+            {
+               "StateIncidentCount": 259,
+               "StateName": "Kabul",
+               "StateCode": "af-kb"
+            },
+            {
+               "StateIncidentCount": 198,
+               "StateName": "Kandahar",
+               "StateCode": "af-kd"
+            },
+            {
+               "StateIncidentCount": 106,
+               "StateName": "Nangarhar",
+               "StateCode": "af-ng"
+            },
+            {
+               "StateIncidentCount": 74,
+               "StateName": "Khost",
+               "StateCode": "af-kt"
+            },
+            {
+               "StateIncidentCount": 43,
+               "StateName": "Paktika",
+               "StateCode": "af-pk"
+            },
+            {
+               "StateIncidentCount": 38,
+               "StateName": "Kunduz",
+               "StateCode": "af-kz"
+            },
+            {
+               "StateIncidentCount": 32,
+               "StateName": "Ghazni",
+               "StateCode": "af-gz"
+            },
+            {
+               "StateIncidentCount": 31,
+               "StateName": "Logar",
+               "StateCode": "af-lw"
+            },
+            {
+               "StateIncidentCount": 27,
+               "StateName": "Zabul",
+               "StateCode": "af-zb"
+            },
+            {
+               "StateIncidentCount": 25,
+               "StateName": "Nimroz",
+               "StateCode": "af-nm"
+            },
+            {
+               "StateIncidentCount": 25,
+               "StateName": "Parwan",
+               "StateCode": "af-pv"
+            },
+            {
+               "StateIncidentCount": 23,
+               "StateName": "Kunar",
+               "StateCode": "af-kr"
+            },
+            {
+               "StateIncidentCount": 21,
+               "StateName": "Uruzgan",
+               "StateCode": "af-oz"
+            },
+            {
+               "StateIncidentCount": 20,
+               "StateName": "Farah",
+               "StateCode": "af-fh"
+            },
+            {
+               "StateIncidentCount": 18,
+               "StateName": "Faryab",
+               "StateCode": "af-fb"
+            },
+            {
+               "StateIncidentCount": 15,
+               "StateName": "Wardak",
+               "StateCode": "af-vr"
+            },
+            {
+               "StateIncidentCount": 14,
+               "StateName": "Baghlan",
+               "StateCode": "af-bl"
+            },
+            {
+               "StateIncidentCount": 14,
+               "StateName": "Balkh",
+               "StateCode": "af-bk"
+            },
+            {
+               "StateIncidentCount": 10,
+               "StateName": "Laghman",
+               "StateCode": "af-la"
+            },
+            {
+               "StateIncidentCount": 9,
+               "StateName": "Kapisa",
+               "StateCode": "af-kp"
+            },
+            {
+               "StateIncidentCount": 7,
+               "StateName": "Takhar",
+               "StateCode": "af-tk"
+            },
+            {
+               "StateIncidentCount": 5,
+               "StateName": "Badakhshan",
+               "StateCode": "af-bd"
+            },
+            {
+               "StateIncidentCount": 5,
+               "StateName": "Badghis",
+               "StateCode": "af-bg"
+            },
+            {
+               "StateIncidentCount": 5,
+               "StateName": "Sari Pul",
+               "StateCode": "af-sp"
+            },
+            {
+               "StateIncidentCount": 3,
+               "StateName": "Jawzjan",
+               "StateCode": "af-jw"
+            },
+            {
+               "StateIncidentCount": 3,
+               "StateName": "Samangan",
+               "StateCode": "af-sm"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Ghor",
+               "StateCode": "af-gr"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Nuristan",
+               "StateCode": "af-nr"
+            }
+         ]
+      },
+      {
+         "CountryName": "Algeria",
+         "CountryIncidentCount": 33,
+         "Code": "dz",
+         "STATES": [
+            {
+               "StateIncidentCount": 4,
+               "StateName": "Tizi Ouzou",
+               "StateCode": "dz-to"
+            },
+            {
+               "StateIncidentCount": 3,
+               "StateName": "Bouira",
+               "StateCode": "dz-bu"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Constantine",
+               "StateCode": "dz-co"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Blida",
+               "StateCode": "dz-bl"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Chlef",
+               "StateCode": "dz-ch"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Oran",
+               "StateCode": "dz-or"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Ouargla",
+               "StateCode": "dz-og"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Relizane",
+               "StateCode": "dz-re"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Tamanghasset",
+               "StateCode": "dz-tm"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Tiaret",
+               "StateCode": "dz-tr"
+            }
+         ]
+      },
+      {
+         "CountryName": "Argentina",
+         "CountryIncidentCount": 2,
+         "Code": "ar",
+         "STATES": [
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Buenos Aires",
+               "StateCode": "ar-ba"
+            }
+         ]
+      },
+      {
+         "CountryName": "Australia",
+         "CountryIncidentCount": 1,
+         "Code": "au",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "New South Wales",
+               "StateCode": "au-ns"
+            }
+         ]
+      },
+      {
+         "CountryName": "Bangladesh",
+         "CountryIncidentCount": 13,
+         "Code": "bd",
+         "STATES": [
+            {
+               "StateIncidentCount": 9,
+               "StateName": "Dhaka",
+               "StateCode": "bd-da"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Chittagong",
+               "StateCode": "bd-cg"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Khulna",
+               "StateCode": "bd-kh"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Rajshahi",
+               "StateCode": "bd-rj"
+            }
+         ]
+      },
+      {
+         "CountryName": "Belgium",
+         "CountryIncidentCount": 3,
+         "Code": "be",
+         "STATES": [
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Brussels",
+               "StateCode": "be-3530"
+            }
+         ]
+      },
+      {
+         "CountryName": "Bulgaria",
+         "CountryIncidentCount": 1,
+         "Code": "bg",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Burgas",
+               "StateCode": "bg-br"
+            }
+         ]
+      },
+      {
+         "CountryName": "Cameroon",
+         "CountryIncidentCount": 88,
+         "Code": "cm",
+         "STATES": [
+            {
+               "StateIncidentCount": 88,
+               "StateName": "Extreme-North",
+               "StateCode": "cm-en"
+            }
+         ]
+      },
+      {
+         "CountryName": "Chad",
+         "CountryIncidentCount": 15,
+         "Code": "td",
+         "STATES": [
+            {
+               "StateIncidentCount": 11,
+               "StateName": "Lac",
+               "StateCode": "td-lc"
+            }
+         ]
+      },
+      {
+         "CountryName": "China",
+         "CountryIncidentCount": 17,
+         "Code": "cn",
+         "STATES": [
+            {
+               "StateIncidentCount": 7,
+               "StateName": "Xinjiang",
+               "StateCode": "cn-xj"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Guangxi",
+               "StateCode": "cn-gx"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Jiangsu",
+               "StateCode": "cn-js"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Shaanxi",
+               "StateCode": "cn-sa"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Shandong",
+               "StateCode": "cn-sd"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Yunnan",
+               "StateCode": "cn-yn"
+            }
+         ]
+      },
+      {
+         "CountryName": "Colombia",
+         "CountryIncidentCount": 4,
+         "Code": "co",
+         "STATES": [
+            {
+               "StateIncidentCount": 3,
+               "StateName": "Arauca",
+               "StateCode": "co-ar"
+            }
+         ]
+      },
+      {
+         "CountryName": "Croatia",
+         "CountryIncidentCount": 1,
+         "Code": "hr",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Primorje-Gorski Kotar",
+               "StateCode": "hr-pg"
+            }
+         ]
+      },
+      {
+         "CountryName": "Djibouti",
+         "CountryIncidentCount": 1,
+         "Code": "dj",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Djibouti",
+               "StateCode": "dj-ta"
+            }
+         ]
+      },
+      {
+         "CountryName": "Egypt",
+         "CountryIncidentCount": 62,
+         "Code": "eg",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Luxor",
+               "StateCode": "eg-uq"
+            }
+         ]
+      },
+      {
+         "CountryName": "Ethiopia",
+         "CountryIncidentCount": 1,
+         "Code": "et",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Addis Ababa",
+               "StateCode": "et-aa"
+            }
+         ]
+      },
+      {
+         "CountryName": "Finland",
+         "CountryIncidentCount": 1,
+         "Code": "fi",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Uusimaa",
+               "StateCode": "fi-3275"
+            }
+         ]
+      },
+      {
+         "CountryName": "Germany",
+         "CountryIncidentCount": 1,
+         "Code": "de",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Berlin",
+               "StateCode": "de-be"
+            }
+         ]
+      },
+      {
+         "CountryName": "India",
+         "CountryIncidentCount": 60,
+         "Code": "in",
+         "STATES": [
+            {
+               "StateIncidentCount": 44,
+               "StateName": "Jammu and Kashmir",
+               "StateCode": "in-jk"
+            },
+            {
+               "StateIncidentCount": 6,
+               "StateName": "Maharashtra",
+               "StateCode": "in-mh"
+            },
+            {
+               "StateIncidentCount": 3,
+               "StateName": "Assam",
+               "StateCode": "in-as"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Delhi",
+               "StateCode": "in-dl"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Punjab",
+               "StateCode": "pk-pb"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Bihar",
+               "StateCode": "in-br"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Tamil Nadu",
+               "StateCode": "in-tn"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Uttar Pradesh",
+               "StateCode": "in-up"
+            }
+         ]
+      },
+      {
+         "CountryName": "Iran",
+         "CountryIncidentCount": 10,
+         "Code": "ir",
+         "STATES": [
+            {
+               "StateIncidentCount": 4,
+               "StateName": "Tehran",
+               "StateCode": "ir-th"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Sistan and Baluchestan",
+               "StateCode": "ir-sb"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Baghdad",
+               "StateCode": "iq-bg"
+            }
+         ]
+      },
+      {
+         "CountryName": "Iraq",
+         "CountryIncidentCount": 2602,
+         "Code": "iq",
+         "STATES": [
+            {
+               "StateIncidentCount": 495,
+               "StateName": "Baghdad",
+               "StateCode": "iq-bg"
+            },
+            {
+               "StateIncidentCount": 241,
+               "StateName": "Diyala",
+               "StateCode": "iq-di"
+            },
+            {
+               "StateIncidentCount": 95,
+               "StateName": "Babil",
+               "StateCode": "iq-bb"
+            },
+            {
+               "StateIncidentCount": 24,
+               "StateName": "Arbil",
+               "StateCode": "iq-ar"
+            },
+            {
+               "StateIncidentCount": 5,
+               "StateName": "Wasit",
+               "StateCode": "iq-wa"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Dihok",
+               "StateCode": "iq-da"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Khost",
+               "StateCode": "af-kt"
+            }
+         ]
+      },
+      {
+         "CountryName": "Israel",
+         "CountryIncidentCount": 130,
+         "Code": "il",
+         "STATES": [
+            {
+               "StateIncidentCount": 32,
+               "StateName": "Jerusalem",
+               "StateCode": "il-jm"
+            },
+            {
+               "StateIncidentCount": 23,
+               "StateName": "Haifa",
+               "StateCode": "il-ha"
+            },
+            {
+               "StateIncidentCount": 21,
+               "StateName": "Central",
+               "StateCode": "ug-2755"
+            },
+            {
+               "StateIncidentCount": 19,
+               "StateName": "Tel Aviv",
+               "StateCode": "il-ta"
+            },
+            {
+               "StateIncidentCount": 14,
+               "StateName": "Northern",
+               "StateCode": "il-hz"
+            }
+         ]
+      },
+      {
+         "CountryName": "Jordan",
+         "CountryIncidentCount": 5,
+         "Code": "jo",
+         "STATES": [
+            {
+               "StateIncidentCount": 3,
+               "StateName": "Amman",
+               "StateCode": "jo-am"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Mafraq",
+               "StateCode": "jo-ma"
+            }
+         ]
+      },
+      {
+         "CountryName": "Kenya",
+         "CountryIncidentCount": 6,
+         "Code": "ke",
+         "STATES": [
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Nairobi",
+               "StateCode": "ke-na"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Coast",
+               "StateCode": "ke-co"
+            }
+         ]
+      },
+      {
+         "CountryName": "Kyrgyzstan",
+         "CountryIncidentCount": 1,
+         "Code": "kr",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Bishkek",
+               "StateCode": "kg-gb"
+            }
+         ]
+      },
+      {
+         "CountryName": "Lebanon",
+         "CountryIncidentCount": 65,
+         "Code": "lb",
+         "STATES": [
+            {
+               "StateIncidentCount": 16,
+               "StateName": "Beirut",
+               "StateCode": "lb-ba"
+            },
+            {
+               "StateIncidentCount": 13,
+               "StateName": "Beqaa",
+               "StateCode": "lb-bi"
+            },
+            {
+               "StateIncidentCount": 10,
+               "StateName": "An Nabatiyah",
+               "StateCode": "lb-na"
+            },
+            {
+               "StateIncidentCount": 5,
+               "StateName": "Mount Lebanon",
+               "StateCode": "lb-jl"
+            }
+         ]
+      },
+      {
+         "CountryName": "Libya",
+         "CountryIncidentCount": 109,
+         "Code": "ly",
+         "STATES": [
+            {
+               "StateIncidentCount": 36,
+               "StateName": "Sirte",
+               "StateCode": "ly-sr"
+            },
+            {
+               "StateIncidentCount": 33,
+               "StateName": "Benghazi",
+               "StateCode": "ly-ba"
+            }
+         ]
+      },
+      {
+         "CountryName": "Mauritania",
+         "CountryIncidentCount": 3,
+         "Code": "mr",
+         "STATES": [
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Nouakchott",
+               "StateCode": "mr-no"
+            }
+         ]
+      },
+      {
+         "CountryName": "Myanmar",
+         "CountryIncidentCount": 1,
+         "Code": "mm",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Kayah",
+               "StateCode": "mm-kh"
+            }
+         ]
+      },
+      {
+         "CountryName": "Niger",
+         "CountryIncidentCount": 12,
+         "Code": "ne",
+         "STATES": [
+            {
+               "StateIncidentCount": 9,
+               "StateName": "Diffa",
+               "StateCode": "ne-df"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Agadez",
+               "StateCode": "ne-ag"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Tillaberi",
+               "StateCode": "ne-tl"
+            }
+         ]
+      },
+      {
+         "CountryName": "Nigeria",
+         "CountryIncidentCount": 389,
+         "Code": "ng",
+         "STATES": [
+            {
+               "StateIncidentCount": 257,
+               "StateName": "Borno",
+               "StateCode": "ng-bo"
+            },
+            {
+               "StateIncidentCount": 37,
+               "StateName": "Yobe",
+               "StateCode": "ng-yo"
+            },
+            {
+               "StateIncidentCount": 24,
+               "StateName": "Kano",
+               "StateCode": "ng-kn"
+            },
+            {
+               "StateIncidentCount": 20,
+               "StateName": "Adamawa",
+               "StateCode": "ng-ad"
+            },
+            {
+               "StateIncidentCount": 14,
+               "StateName": "Kaduna",
+               "StateCode": "ng-kd"
+            },
+            {
+               "StateIncidentCount": 12,
+               "StateName": "Gombe",
+               "StateCode": "ng-go"
+            },
+            {
+               "StateIncidentCount": 6,
+               "StateName": "Bauchi",
+               "StateCode": "ng-ba"
+            },
+            {
+               "StateIncidentCount": 6,
+               "StateName": "Plateau",
+               "StateCode": "ng-pl"
+            },
+            {
+               "StateIncidentCount": 5,
+               "StateName": "Abuja",
+               "StateCode": "ng-fc"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Lagos",
+               "StateCode": "ng-la"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Sokoto",
+               "StateCode": "ng-so"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Katsina",
+               "StateCode": "ng-kt"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Niger",
+               "StateCode": "ng-ni"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Taraba",
+               "StateCode": "ng-ta"
+            }
+         ]
+      },
+      {
+         "CountryName": "Pakistan",
+         "CountryIncidentCount": 511,
+         "Code": "pk",
+         "STATES": [
+            {
+               "StateIncidentCount": 84,
+               "StateName": "Federally Administered Tribal Areas",
+               "StateCode": "pk-ta"
+            },
+            {
+               "StateIncidentCount": 75,
+               "StateName": "Punjab",
+               "StateCode": "pk-pb"
+            },
+            {
+               "StateIncidentCount": 71,
+               "StateName": "North-West Frontier Province",
+               "StateCode": "pk-nw"
+            },
+            {
+               "StateIncidentCount": 45,
+               "StateName": "Sindh",
+               "StateCode": "pk-sd"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Azad Kashmir",
+               "StateCode": "pk-jk"
+            }
+         ]
+      },
+      {
+         "CountryName": "Qatar",
+         "CountryIncidentCount": 1,
+         "Code": "qa",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Doha",
+               "StateCode": "qa-da"
+            }
+         ]
+      },
+      {
+         "CountryName": "Russia",
+         "CountryIncidentCount": 86,
+         "Code": "ru",
+         "STATES": [
+            {
+               "StateIncidentCount": 15,
+               "StateName": "Dagestan",
+               "StateCode": "ru-da"
+            },
+            {
+               "StateIncidentCount": 14,
+               "StateName": "Chechnya",
+               "StateCode": "ru-cn"
+            },
+            {
+               "StateIncidentCount": 3,
+               "StateName": "North Ossetia",
+               "StateCode": "ru-no"
+            },
+            {
+               "StateIncidentCount": 3,
+               "StateName": "Volgograd",
+               "StateCode": "ru-vg"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Rostov",
+               "StateCode": "ru-ro"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Tula",
+               "StateCode": "ru-tl"
+            }
+         ]
+      },
+      {
+         "CountryName": "Saudi Arabia",
+         "CountryIncidentCount": 25,
+         "Code": "sa",
+         "STATES": [
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Makkah",
+               "StateCode": "sa-mk"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Najran",
+               "StateCode": "sa-nj"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Eastern Province",
+               "StateCode": "sa-sh"
+            }
+         ]
+      },
+      {
+         "CountryName": "Somalia",
+         "CountryIncidentCount": 188,
+         "Code": "so",
+         "STATES": [
+            {
+               "StateIncidentCount": 116,
+               "StateName": "Banaadir",
+               "StateCode": "so-bn"
+            },
+            {
+               "StateIncidentCount": 11,
+               "StateName": "Hiiraan",
+               "StateCode": "so-hi"
+            },
+            {
+               "StateIncidentCount": 10,
+               "StateName": "Bay",
+               "StateCode": "so-by"
+            },
+            {
+               "StateIncidentCount": 5,
+               "StateName": "Bari",
+               "StateCode": "so-br"
+            },
+            {
+               "StateIncidentCount": 5,
+               "StateName": "Gedo",
+               "StateCode": "so-ge"
+            },
+            {
+               "StateIncidentCount": 5,
+               "StateName": "Mudug",
+               "StateCode": "so-mu"
+            },
+            {
+               "StateIncidentCount": 3,
+               "StateName": "Galguduud",
+               "StateCode": "so-ga"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Bakool",
+               "StateCode": "so-bk"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Nugaal",
+               "StateCode": "so-nu"
+            }
+         ]
+      },
+      {
+         "CountryName": "South Africa",
+         "CountryIncidentCount": 1,
+         "Code": "za",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Mpumalanga",
+               "StateCode": "za-mp"
+            }
+         ]
+      },
+      {
+         "CountryName": "South Sudan",
+         "CountryIncidentCount": 1,
+         "Code": "ss",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Warap",
+               "StateCode": "ss-wr"
+            }
+         ]
+      },
+      {
+         "CountryName": "Spain",
+         "CountryIncidentCount": 2,
+         "Code": "es",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Madrid",
+               "StateCode": "es-m"
+            }
+         ]
+      },
+      {
+         "CountryName": "Sri Lanka",
+         "CountryIncidentCount": 114,
+         "Code": "lk",
+         "STATES": [
+            {
+               "StateIncidentCount": 33,
+               "StateName": "Northern",
+               "StateCode": "il-hz"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Central",
+               "StateCode": "ug-2755"
+            }
+         ]
+      },
+      {
+         "CountryName": "Sweden",
+         "CountryIncidentCount": 1,
+         "Code": "se",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Stockholm",
+               "StateCode": "se-st"
+            }
+         ]
+      },
+      {
+         "CountryName": "Syria",
+         "CountryIncidentCount": 344,
+         "Code": "sy",
+         "STATES": [
+            {
+               "StateIncidentCount": 69,
+               "StateName": "Aleppo",
+               "StateCode": "sy-hl"
+            },
+            {
+               "StateIncidentCount": 56,
+               "StateName": "Damascus",
+               "StateCode": "sy-rd"
+            },
+            {
+               "StateIncidentCount": 38,
+               "StateName": "Idlib",
+               "StateCode": "sy-id"
+            },
+            {
+               "StateIncidentCount": 19,
+               "StateName": "Hamah",
+               "StateCode": "sy-hm"
+            },
+            {
+               "StateIncidentCount": 9,
+               "StateName": "Rif Dimashq",
+               "StateCode": "sy-rd"
+            },
+            {
+               "StateIncidentCount": 8,
+               "StateName": "Lattakia",
+               "StateCode": "sy-la"
+            },
+            {
+               "StateIncidentCount": 5,
+               "StateName": "Tartus",
+               "StateCode": "sy-ta"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Quneitra",
+               "StateCode": "sy-qu"
+            }
+         ]
+      },
+      {
+         "CountryName": "Tanzania",
+         "CountryIncidentCount": 1,
+         "Code": "tz",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Dar es Salaam",
+               "StateCode": "tz-ds"
+            }
+         ]
+      },
+      {
+         "CountryName": "Tunisia",
+         "CountryIncidentCount": 8,
+         "Code": "tn",
+         "STATES": [
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Monastir",
+               "StateCode": "tn-ms"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Sousse",
+               "StateCode": "tn-ss"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Tataouine",
+               "StateCode": "tn-ta"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Tunis",
+               "StateCode": "tn-tu"
+            }
+         ]
+      },
+      {
+         "CountryName": "Turkey",
+         "CountryIncidentCount": 76,
+         "Code": "tr",
+         "STATES": [
+            {
+               "StateIncidentCount": 21,
+               "StateName": "Istanbul",
+               "StateCode": "tr-ib"
+            },
+            {
+               "StateIncidentCount": 7,
+               "StateName": "Ankara",
+               "StateCode": "tr-an"
+            },
+            {
+               "StateIncidentCount": 5,
+               "StateName": "Diyarbakir",
+               "StateCode": "tr-dy"
+            },
+            {
+               "StateIncidentCount": 5,
+               "StateName": "Gaziantep",
+               "StateCode": "tr-ga"
+            },
+            {
+               "StateIncidentCount": 5,
+               "StateName": "Hakkari",
+               "StateCode": "tr-hk"
+            },
+            {
+               "StateIncidentCount": 4,
+               "StateName": "Tunceli",
+               "StateCode": "tr-tc"
+            },
+            {
+               "StateIncidentCount": 3,
+               "StateName": "Adana",
+               "StateCode": "tr-aa"
+            },
+            {
+               "StateIncidentCount": 3,
+               "StateName": "Hatay",
+               "StateCode": "tr-ht"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Batman",
+               "StateCode": "tr-bm"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Kayseri",
+               "StateCode": "tr-ky"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Mardin",
+               "StateCode": "tr-mr"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Mersin",
+               "StateCode": "tr-ic"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Sanliurfa",
+               "StateCode": "tr-su"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Sirnak",
+               "StateCode": "tr-sr"
+            },
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Van",
+               "StateCode": "tr-va"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Agri",
+               "StateCode": "tr-ag"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Bursa",
+               "StateCode": "tr-bu"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Elazig",
+               "StateCode": "tr-eg"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Kocaeli",
+               "StateCode": "tr-kc"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Ordu",
+               "StateCode": "tr-or"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Sivas",
+               "StateCode": "tr-sv"
+            }
+         ]
+      },
+      {
+         "CountryName": "Uganda",
+         "CountryIncidentCount": 2,
+         "Code": "ug",
+         "STATES": [
+            {
+               "StateIncidentCount": 2,
+               "StateName": "Central",
+               "StateCode": "ug-2755"
+            }
+         ]
+      },
+      {
+         "CountryName": "Ukraine",
+         "CountryIncidentCount": 3,
+         "Code": "ua",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Kharkiv",
+               "StateCode": "ua-kk"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Sumy",
+               "StateCode": "ua-sm"
+            }
+         ]
+      },
+      {
+         "CountryName": "United Kingdom",
+         "CountryIncidentCount": 7,
+         "Code": "gb",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Scotland",
+               "StateCode": "gb-wi"
+            }
+         ]
+      },
+      {
+         "CountryName": "United States",
+         "CountryIncidentCount": 14,
+         "Code": "us",
+         "STATES": [
+            {
+               "StateIncidentCount": 3,
+               "StateName": "New York",
+               "StateCode": "us-ny"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "California",
+               "StateCode": "us-ca"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Colorado",
+               "StateCode": "us-co"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Florida",
+               "StateCode": "us-fl"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Maryland",
+               "StateCode": "us-md"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Michigan",
+               "StateCode": "us-mi"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "New Mexico",
+               "StateCode": "us-nm"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Oregon",
+               "StateCode": "us-or"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Pennsylvania",
+               "StateCode": "us-pa"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Texas",
+               "StateCode": "us-tx"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Virginia",
+               "StateCode": "us-va"
+            }
+         ]
+      },
+      {
+         "CountryName": "Uzbekistan",
+         "CountryIncidentCount": 6,
+         "Code": "uz",
+         "STATES": [
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Andijon",
+               "StateCode": "uz-an"
+            }
+         ]
+      },
+      {
+         "CountryName": "Yemen",
+         "CountryIncidentCount": 220,
+         "Code": "ye",
+         "STATES": [
+            {
+               "StateIncidentCount": 39,
+               "StateName": "Abyan",
+               "StateCode": "ye-3430"
+            },
+            {
+               "StateIncidentCount": 35,
+               "StateName": "Hadramawt",
+               "StateCode": "ye-3415"
+            },
+            {
+               "StateIncidentCount": 28,
+               "StateName": "Amanat Al Asimah",
+               "StateCode": "ye-3427"
+            },
+            {
+               "StateIncidentCount": 13,
+               "StateName": "Shabwah",
+               "StateCode": "ye-sh"
+            },
+            {
+               "StateIncidentCount": 8,
+               "StateName": "Lahij",
+               "StateCode": "ye-la"
+            },
+            {
+               "StateIncidentCount": 5,
+               "StateName": "Al Hudaydah",
+               "StateCode": "ye-hu"
+            },
+            {
+               "StateIncidentCount": 4,
+               "StateName": "Al Jawf",
+               "StateCode": "ye-ja"
+            },
+            {
+               "StateIncidentCount": 3,
+               "StateName": "Ibb",
+               "StateCode": "ye-ib"
+            },
+            {
+               "StateIncidentCount": 1,
+               "StateName": "Hajjah",
+               "StateCode": "ye-hj"
+            }
+         ]
+      }
+   ]
+}
