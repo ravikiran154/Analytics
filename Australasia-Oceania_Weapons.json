@@ -1,10 +1,10 @@
 [
-["Explosives",80]
-["Firearms",74]
-["Incendiary",74]
-["Unknown",31]
-["Chemical",11]
-["Melee",10]
-["Other",1]
+["Explosives",80],
+["Firearms",74],
+["Incendiary",74],
+["Unknown",31],
+["Chemical",11],
+["Melee",10],
+["Other",1],
 ["Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)",1]
 ]
